@@ -12,7 +12,8 @@ An intelligent Python-based voice assistant that can understand voice commands a
 
 ## ⚙️ Installation
 
-git clone https://github.com/HimavadanKamera/AI-Voice-Assistant.gitcd AI-Voice-Assistant
+git clone https://github.com/HimavadanKamera/AI-Voice-Assistant.git
+cd AI-Voice-Assistant
 pip install -r requirements.txt
 
 ## ▶️ Run
