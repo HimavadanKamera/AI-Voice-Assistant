@@ -30,5 +30,5 @@ python main.py
 ## 👨‍💻 Author
 
 Himavadan Kamera
-GitHub: https://github.com/Himavadan
+GitHub: https://github.com/HimavadanKamera
 LinkedIn: https://www.linkedin.com/in/himavadan-kamera-5888a4323/
